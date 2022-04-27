@@ -1,12 +1,13 @@
-### Hi there 👋
-
-<!--
-**nicecarrot/nicecarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋  This is nicecarrot(KangMin Her) from ROK(South Korea) - 🇰🇷.
+##### I'm beginner, Not yet developer
+### ✨Learning these days✨
 
 - 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
